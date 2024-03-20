@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+.resume-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.section p {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.contact {
+    font-size: 18px;
+}
+
+.responsive-image {
+    width: 100%;
+    height: auto;
+}
